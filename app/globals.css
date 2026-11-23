@@ -42,7 +42,7 @@ h1,h2,h3,h4,.display{font-family:var(--font-display),sans-serif;line-height:1.05
 @media (prefers-reduced-motion:reduce){.ticker div{animation:none}}
 
 section{padding:70px 0}
-.sec-head{display:flex;justify-content:space-between;align-items:end;gap:20px;flex-wrap:wrap;margin-bottom:26px}
+.sec-head{display:flex;justify-content:space-between;align-items:flex-end;gap:20px;flex-wrap:wrap;margin-bottom:26px}
 .sec-head h2{font-size:clamp(2rem,5vw,3.2rem)}
 .sec-head p{max-width:420px;color:var(--muted)}
 
