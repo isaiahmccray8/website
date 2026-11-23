@@ -94,3 +94,4 @@ Paid with Cash App directly or in cash? Enter it under **Record a payment**.
 - **Your photo:** replace the "IM" box in `app/page.js` with `<img src="/isaiah.jpg" alt="Isaiah McCray" />` and add the photo to `/public`.
 - **Custom domain** (like mccraymade.com, about $12/yr): Vercel → Settings → Domains. Update `SITE_URL` and the Stripe webhook URL afterward.
 - Local development: `cp .env.example .env.local`, fill it in, `npm run dev`.
+# website
